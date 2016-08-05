@@ -682,13 +682,14 @@ ul.social-buttons li a:active {
 
 // Table
 // --------------------------------------------------
+table, th, td {
+   border-top: 1px solid #ddd;
+   border-bottom: 1px solid #ddd;
+}
+
 table {
   min-width: 300px;
-  border-bottom: 1px solid #ddd;
   margin-bottom: 50px;
-  tr {
-    margin-bottom: 50px;
-  }
   th {
     display: none; // for accessibility, use a visually hidden method here instead! Thanks, reddit!   
   }  
