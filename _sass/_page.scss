@@ -682,14 +682,40 @@ ul.social-buttons li a:active {
 
 // Table
 // --------------------------------------------------
-td { 
-    padding: 10px;
-    width: 30%;
-
+table {
+  min-width: 300px;
+  border-bottom: 1px solid #ddd;
+  margin-bottom: 50px;
+  tr {
+    margin-bottom: 50px;
+  }
+  th {
+    display: none; // for accessibility, use a visually hidden method here instead! Thanks, reddit!   
+  }  
+  td {
+    display: block; 
     a {
     	color: $table-link-color;
     	&:hover {
 	    	color: darken($table-link-color,15);
     	}
     }
+    &:before {
+      content: attr(data-th)": ";
+      font-weight: bold;
+      width: 1em;
+	  @media #{$large} {
+        display: none;
+      }
+    }
+  }
+  
+  td {
+  	@media #{$large} {
+      display: table-cell;
+	  padding: 10px;
+   	  width: 30%;
+    }
+  }
+  
 }
