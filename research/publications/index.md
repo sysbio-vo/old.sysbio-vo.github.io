@@ -29,6 +29,10 @@ Frolova, A. O. "Overview of methods of reverse engineering of gene regulatory ne
 
 Mislanova, Csilla, Olga Martsenyuk, Berthold Huppertz, and M. Obolenskaya. "Placental markers of folate-related metabolism in preeclampsia." Reproduction 142, no. 3 (2011): 467-476. <a href="{{ site.url }}{{ page.url }}mislanova2011.bib">[BibTeX]</a> <a href="http://www.reproduction-online.org/content/142/3/467.full">[Publisher]</a>
 
+### 2010
+
+Obolenskaya, Maria Yu, Nadiya M. Teplyuk, Rao L. Divi, Miriam C. Poirier, Nataliya B. Filimonova, Monika Zadrozna, and Markku J. Pasanen. **"Human placental glutathione S-transferase activity and polycyclic aromatic hydrocarbon DNA adducts as biomarkers for environmental oxidative stress in placentas from pregnant women living in radioactivity-and chemically-polluted regions."** *Toxicology letters* 196, no. 2 (2010): 80-86. <a href="{{ site.url }}{{ page.url }}obolenskaya2010.bib">[BibTeX]</a> <a href="http://www.sciencedirect.com/science/article/pii/S0378427410012440">[Publisher]</a>
+
 ### 2009
 
 Drahushchenko, O. O., B. T. Tokovenko, and MIu Obolens'ka. **"Initial analysis of the results of the genome-wide search for the genes responsive to interferon alpha."** *The Ukrainian Biochemical Journal* 82, no. 1 (2009): 82-89. <a href="{{ site.url }}{{ page.url }}drahushchenko2009.bib">[BibTeX]</a> <a href="http://ubj.biochemistry.org.ua/index.php/en/journal-archive/2010-97064/1-january-february-2010/1800-initial-analysis-of-the-results-of-the-genome-wide-search-for-the-genes-of-response-to-interferon-alpha-oo-dragushchenko-bt-tokovenko-myu-obolenskaya">[Publisher]</a>
@@ -48,7 +52,7 @@ Slonchak, A. M., and MIu Obolens'ka. **"Structure and functions of glutathione S
 
 Martsenyuk, O. P., K. L. Romanets, MIu Obolenska, and B. Huppertz. "Effect of homocysteine on the structure and functions of human placenta trophoblasts." *The Ukrainian Biochemical Journal* 81, no. 5 (2008): 40-49. <a href="{{ site.url }}{{ page.url }}martsenyuk2008effect.bib">[BibTeX]</a> <a href="http://ubj.biochemistry.org.ua/index.php/en/journal-archive/2009-16384/n-5-september-october/1648-effect-of-homocysteine-on-the-structure-and-functions-ofhuman-placenta-trophoblast-op-martsenyuk-kl-romanets-myuobolenska-b-huppertz">[Publisher]</a>
 
-Martsenyuk, O. P., Sh Mishlanova, K. L. Romanets, N. M. Tepliuk, and MIu Obolens' ka. **"The level of low molecular thiols and folate in human placenta."** *The Ukrainian Biochemical Journal* 81, no. 4 (2008): 94-104. <a href="{{ site.url }}{{ page.url }}martsenyuk2008.bib">[BibTeX]</a> <a href="http://ubj.biochemistry.org.ua/index.php/en/journal-archive/2009-16384/n-4-july-august-3970/1624-the-level-of-low-molecular-thiols-and-folate-in-human-op-martsenyuk-c-mislanova-kl-romanets-nm-teplyuk-myobolenskaya">[Publisher]</a>
+Martsenyuk, O. P., Sh Mishlanova, K. L. Romanets, N. M. Teplyuk, and MIu Obolens' ka. **"The level of low molecular thiols and folate in human placenta."** *The Ukrainian Biochemical Journal* 81, no. 4 (2008): 94-104. <a href="{{ site.url }}{{ page.url }}martsenyuk2008.bib">[BibTeX]</a> <a href="http://ubj.biochemistry.org.ua/index.php/en/journal-archive/2009-16384/n-4-july-august-3970/1624-the-level-of-low-molecular-thiols-and-folate-in-human-op-martsenyuk-c-mislanova-kl-romanets-nm-teplyuk-myobolenskaya">[Publisher]</a>
 
 ### 2007
 
@@ -67,3 +71,7 @@ Odynets, K. A., S. S. Ivahno, D. B. Kovalskyy, B. T. Tokovenko, and A. I. Kornel
 ### 2002
 
 Artamonov, M. V., O. D. Zhukov, T. M. Horid'ko, V. M. Klimashevs'ky, O. P. Martseniuk, and N. M. Hula. **"Effect of N-stearoylethanolamine and ionizing radiation on lipid components of the liver and heart microsomes in rats."** *The Ukrainian Biochemical Journal* 75, no. 4 (2002): 81-90. <a href="{{ site.url }}{{ page.url }}artamonov2002.bib">[BibTeX]</a> <a href="http://europepmc.org/abstract/med/14681979">[Abstract]</a>
+
+### 1997
+
+Obolenskaya, M. Yu, T. L. Tschaikovskaya, L. M. Lebedeva, L. L. Macewicz, L. V. Didenko, and K. Decker. ***"Glutathione status of placentae from differently polluted regions of Ukraine."*** *European Journal of Obstetrics & Gynecology and Reproductive Biology* 71, no. 1 (1997): 23-30. <a href="{{ site.url }}{{ page.url }}obolenskaya1997.bib">[BibTeX]</a> <a href="http://www.sciencedirect.com/science/article/pii/S0301211596026115">[Abstract]</a>
