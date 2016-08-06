@@ -7,7 +7,7 @@ share: true
 
 #### Our research area includes following topics:
 
-- Systems Biology and Bioinformatics: whole genome search for target genes of transcription factors; reconstruction of gene regulatory networks. Theoretical predictions and experimental corroborations.
+- Systems biology and bioinformatics: whole genome search for target genes of transcription factors; reconstruction of gene regulatory networks. Theoretical predictions and experimental corroborations.
 - Gene expression and its regulation in eukaryotic cells.
 
 #### Take a look on our current advances:

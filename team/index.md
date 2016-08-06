@@ -25,9 +25,18 @@ share: true
 
 |  |  |  |
 |:-------:|:-------:|:-------:|
-| <b>Olexandr Lykhenko</b> <a href="mailto:lykhenko.olexandr@gmail.com ">lykhenko.olexandr@gmail.com</a> | MSc | applied math and bioinformatics |
+| <b>Olexandr Lykhenko</b> <a href="mailto:lykhenko.olexandr@gmail.com">lykhenko.olexandr@gmail.com</a> | MSc | applied math and bioinformatics |
 |----
 | <b>Serhiy Ralchenko</b> <a href="mailto:ralchenkos@gmail.com">ralchenkos@gmail.com</a> | MSc | experimental molecular biology  |
 |----
 {: rules="groups"}
 
+### Bachelor's and Mater's Students
+
+|  |  |  |
+|:-------:|:-------:|:-------:|
+| <b>Stanislav Zubenko</b> <a href="mailto:dantistnfs@gmail.com">dantistnfs@gmail.com</a> | UnderGrad | molecular biology, data-mining |
+|----
+| <b>Vladyslav Bondarenko</b> <a href="mailto:vladyslav.bon@gmail.com">vladyslav.bon@gmail.com</a> | BSc | computational biology and bioinformatics  |
+|----
+{: rules="groups"}
