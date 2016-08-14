@@ -22,5 +22,5 @@ Kyiv, Ukraine, 03680
 </div>
 
 {::nomarkdown}
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2545.626013395751!2d30.47971131572794!3d50.354880479462274!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40d4c864df3bd767%3A0xfe002d8069b88c4!2sInstitut+Molekulyarnoy+Biologii+I+Genetiki+NAN+Ukrainy!5e0!3m2!1sen!2s!4v1470382296979" width="100%" height="450" frameborder="0" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d162972.6756120293!2d30.49013438077672!3d50.33954789823937!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40d4c864df3bd767%3A0xfe002d8069b88c4!2sInstitut+Molekulyarnoy+Biologii+I+Genetiki+NAN+Ukrainy!5e0!3m2!1sen!2ssk!4v1471190272461" width="100%" height="450" frameborder="0" frameborder="0" allowfullscreen></iframe>
 {:/nomarkdown}
