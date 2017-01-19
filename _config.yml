@@ -27,8 +27,8 @@ menu:
         url: '/research/publications'
       - title: 'Tools'
         url: '/research/tools'
-      - title: 'ArrayIntegrate'
-        url: '/research/tools/arrayintegrate'
+      - title: 'IGEA'
+        url: '/research/tools/igea'
 
       #- title: 'Protocols'
       #  url: '/research/protocols'
