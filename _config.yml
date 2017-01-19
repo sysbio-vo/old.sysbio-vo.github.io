@@ -27,6 +27,9 @@ menu:
         url: '/research/publications'
       - title: 'Tools'
         url: '/research/tools'
+      - title: 'ArrayIntegrate'
+        url: '/research/tools/arrayintegrate'
+
       #- title: 'Protocols'
       #  url: '/research/protocols'
       #- title: 'Data'
