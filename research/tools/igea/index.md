@@ -28,3 +28,5 @@ The use of IGEA may be especially valuable when the disease like pre-eclampsia i
 This tool is currently under development. We have developed web-interface to access standardized metadata and experiments description. Namely, we have gathered, extended, and standardized metadata on a total of 32 relevant pre-eclampsia related microarray experiments from ArrayExpress, which is more than 1000 biological samples. The results are stored in Postgres database. Data can be accessed via either admin or user interface.
 
 User’s web-interface at its current stage can be found <a href="http://194.44.31.241:24173/">here</a>.
+
+Watch for updates at project's <a href="https://github.com/Sashkow/placenta-preeclampsia/">GitHub page</a>.
