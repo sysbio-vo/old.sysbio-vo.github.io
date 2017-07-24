@@ -35,7 +35,7 @@ share: true
 
 |  |  |  |
 |:-------:|:-------:|:-------:|
-| <b>Stanislav Zubenko</b> <a href="mailto:dantistnfs@gmail.com">dantistnfs@gmail.com</a> | UnderGrad | molecular biology, data-mining |
+| <b>Stanislav Zubenko</b> <a href="mailto:dantistnfs@gmail.com">dantistnfs@gmail.com</a> | BSc | molecular biology, data-mining |
 |----
 | <b>Vladyslav Bondarenko</b> <a href="mailto:vladyslav.bon@gmail.com">vladyslav.bon@gmail.com</a> | BSc | computational biology and bioinformatics  |
 |----
